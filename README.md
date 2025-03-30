@@ -1,9 +1,8 @@
 # Java Lending Application Development
 
 # System Architecture
-```html
-https://excalidraw.com/#json=kqRJupkeEfFbNBdhT_0Qa,67BoWTcblsYWIXL3WsiIMA
-```
+[View Diagram](https://excalidraw.com/#json=kqRJupkeEfFbNBdhT_0Qa,67BoWTcblsYWIXL3WsiIMA)
+
 # Loan Product Service (Loan Product Configuration)
 
 ## Overview
